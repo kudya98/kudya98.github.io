@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/threejs-shooter/static/css/main.17a80f61.chunk.css",
+    "main.js": "/threejs-shooter/static/js/main.6ec41349.chunk.js",
+    "main.js.map": "/threejs-shooter/static/js/main.6ec41349.chunk.js.map",
+    "runtime-main.js": "/threejs-shooter/static/js/runtime-main.566a499f.js",
+    "runtime-main.js.map": "/threejs-shooter/static/js/runtime-main.566a499f.js.map",
+    "static/js/2.f48eceb0.chunk.js": "/threejs-shooter/static/js/2.f48eceb0.chunk.js",
+    "static/js/2.f48eceb0.chunk.js.map": "/threejs-shooter/static/js/2.f48eceb0.chunk.js.map",
+    "index.html": "/threejs-shooter/index.html",
+    "precache-manifest.90508a1261cb2c3886540b79b91abaf7.js": "/threejs-shooter/precache-manifest.90508a1261cb2c3886540b79b91abaf7.js",
+    "service-worker.js": "/threejs-shooter/service-worker.js",
+    "static/css/main.17a80f61.chunk.css.map": "/threejs-shooter/static/css/main.17a80f61.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.566a499f.js",
+    "static/js/2.f48eceb0.chunk.js",
+    "static/css/main.17a80f61.chunk.css",
+    "static/js/main.6ec41349.chunk.js"
+  ]
+}
