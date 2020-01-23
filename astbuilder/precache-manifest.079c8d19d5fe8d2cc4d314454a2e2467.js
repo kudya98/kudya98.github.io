@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/astbuilder/editor.worker.js"
   },
   {
-    "revision": "ca0e357ff15d157f086ec4cc619c02ec",
+    "revision": "6317c55b10f76189421e47982967a382",
     "url": "/astbuilder/index.html"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/astbuilder/static/js/4.86c2d240.chunk.js"
   },
   {
-    "revision": "ac91cb0898aa3d462d23",
-    "url": "/astbuilder/static/js/5.f9878dcb.chunk.js"
+    "revision": "0395ee85c9bb7b15e2ef",
+    "url": "/astbuilder/static/js/5.ce5e0819.chunk.js"
   },
   {
     "revision": "1db8e5cb158d158cb934",
@@ -80,7 +80,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/astbuilder/static/js/main.ee07d5de.chunk.js"
   },
   {
-    "revision": "e4f70bc0150f33eec7aa",
-    "url": "/astbuilder/static/js/runtime-main.3f072b52.js"
+    "revision": "93daf2d6d0d1fc40845d",
+    "url": "/astbuilder/static/js/runtime-main.abd0e3af.js"
   }
 ]);
